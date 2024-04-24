@@ -18,9 +18,9 @@ Our repository also includes implementation and analysis of defense mechanisms s
  - The python is use to run on the datasets on MNIST with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
 ## VGG Model
-- VGG_Implementation_CIFAR10 with Defense.ipynb: The python is use to run on the datasets on CIFAR10 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
+- VGG_Implementation_CIFAR10_with Defense.ipynb: The python is use to run on the datasets on CIFAR10 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
-- VGG_Implementation_CIFAR100 with Defense.ipynb: The python is use to run on the datasets on CIFAR100 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
+- VGG_Implementation_CIFAR100_with Defense.ipynb: The python is use to run on the datasets on CIFAR100 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
 # Carlini & Wagner Adversarial Attacks
 
