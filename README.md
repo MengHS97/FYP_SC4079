@@ -22,9 +22,11 @@ Our repository also includes implementation and analysis of defense mechanisms s
 
 - VGG_Implementation_CIFAR100 with Defense.ipynb: The python is use to run on the datasets on CIFAR100 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
-## Carlini & Wagner
+# Carlini & Wagner Adversarial Attacks
 
-There is a C&W Folder which contain on the file that is needed on running and experimenting for the Carlini & Wagner Adversarial Attacks
+There is a directory contains essential files that are crucial for running experiments and understanding the implementation of the Carlini & Wagner Adversarial Attacks.
+
+Here you'll find the necessary resources to get started with exploring the fascinating world of adversarial machine learning through the lens of the C&W method.
 
 # Additional - Proposed Defense Mechanism
 - CIFAR-10 with Neuron Shuffling.ipynb: The current file use for running and experimenting on the new proposed defense mechanism.
