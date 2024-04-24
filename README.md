@@ -8,21 +8,19 @@ In this investigation, we delve deeply into the performance intricacies of the R
 
 Our repository also includes implementation and analysis of defense mechanisms such as the Gaussian Noise Defense and Defense Distillation. Furthermore, we introduce a novel defense mechanism involving neuron shuffling in the neural network models. This innovative approach is used for running experiments to further our understanding of potential defense strategies against adversarial attacks on neural networks.
 
-# The Python File
-
 ## ResNet Model
 - The python is use to run on the datasets on CIFAR10 with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
-Adversarial Attacks on CIFAR-100 with FGSM and PGD attacks with Defense.ipynb - The python is use to run on the datasets on CIFAR100 with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
+- Adversarial Attacks on CIFAR-100 with FGSM and PGD attacks with Defense.ipynb: The python is use to run on the datasets on CIFAR100 with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
-Adversarial Attacks on FashionMNIST with FGSM and PGD attacks with Defense.ipynb - The python is use to run on the datasets on FashionMNIST with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
+- Adversarial Attacks on FashionMNIST with FGSM and PGD attacks with Defense.ipynb: The python is use to run on the datasets on FashionMNIST with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
  - The python is use to run on the datasets on MNIST with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
 ## VGG Model
-VGG_Implementation_CIFAR10 with Defense.ipynb -  The python is use to run on the datasets on CIFAR10 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
+- VGG_Implementation_CIFAR10 with Defense.ipynb: The python is use to run on the datasets on CIFAR10 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
-VGG_Implementation_CIFAR100 with Defense.ipynb - The python is use to run on the datasets on CIFAR100 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
+- VGG_Implementation_CIFAR100 with Defense.ipynb: The python is use to run on the datasets on CIFAR100 with VGG with the adversarial attacks on FGSM & PGD with integration on the defense mechanism.
 
 # Additional - Proposed Defense Mechanism
-CIFAR-10 with Neuron Shuffling.ipynb - The current file use for running and experimenting on the new proposed defense mechanism.
+- CIFAR-10 with Neuron Shuffling.ipynb: The current file use for running and experimenting on the new proposed defense mechanism.
